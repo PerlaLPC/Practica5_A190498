@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/lilim/Desktop/Practica5_A190498/ejemplo1.xsl"?>
+<celulares>
+   <celular>
+     <modelo>Xiaomi 13T Pro Global</modelo>
+     <precio>$12,980</precio>
+   </celular> 
+ <celular>
+     <modelo>Nubia Z50s Pro Global</modelo>
+     <precio>$15,999</precio>
+   </celular> 
+    <celular>
+     <modelo>iPhone 15 128 GB</modelo>
+     <precio>$19,499</precio>
+   </celular> 
+    <celular>
+     <modelo>Oppo Reno 10 256 GB 5G</modelo>
+     <precio>$9,999</precio>
+   </celular> 
+    <celular>
+     <modelo>Samsung Galaxy S23 Ultra</modelo>
+     <precio>$18,999</precio>
+   </celular> 
+</celulares>
